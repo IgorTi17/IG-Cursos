@@ -103,6 +103,7 @@ body {
 .javascript a:before { background: url(../img/javascript.svg) no-repeat; }
 .python a:before { background: url(../img/python.svg) no-repeat; }
 .wordpress a:before { background: url(../img/wordpress.svg) no-repeat; }
+.ruby a:before { background: url(../img/ruby.svg) no-repeat; }
 
 
 .rodapePrincipal {
